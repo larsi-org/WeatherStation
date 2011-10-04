@@ -1,9 +1,7 @@
 /*
- * WeatherStation
+ * WeatherStation by Lars Schumann (make.larsi.org)
  *
- * SHT15
- * BMP085
- * TEMT6000
+ * Uses the following senors: SHT15, BMP085, and TEMT6000
  */
 
 #include "Wire.h"
